@@ -1,8 +1,8 @@
 ## Daniel Gustavo!
 <div align="center">
-  <a href="https://github.com/danielgustavodev">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=DanielGustavo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGustavo&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/danielgustavodev" >
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=danielgustavodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgustavodev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
