@@ -9,9 +9,11 @@
     <img align="center" alt="Fonts-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Fonts-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Fonts-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Fonts-wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
     <img align="center" alt="Fonts-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Fonts-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+    <img align="center" alt="Fonts-php" height="30" width="40" src="https://img.icons8.com/?size=512&id=13441&format=png">
+    <img align="center" alt="Fonts-php" height="30" width="40" src="https://img.icons8.com/?size=512&id=i1glGmISmzJj&format=png">
+
     <br>  
   </div>
   
